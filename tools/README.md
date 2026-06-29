@@ -69,6 +69,9 @@ This directory contains all tool implementations for the Agents4Gov project. Eac
 
 ---
 
+### SEIR Model Simulator
+- **[seir_model_simulator/main.py](seir_model_simulator/README.md)** - Run configurable SEIR epidemiological simulations with exposed compartments, key metrics, summarized time series, and optional plots
+
 ## How to Use Tools in Open WebUI
 
 ### Method 1: Import via UI
